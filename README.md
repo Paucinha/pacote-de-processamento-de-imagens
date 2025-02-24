@@ -54,7 +54,7 @@ python setup.py sdist bdist_wheel
 
 ## Publicando o pacote
 
-Como criar o seu programa de uma forma mental, utilizando o computador mais potente do mundo, o nosso cérebro. se vc ainda não sabe programar, vai criar o seu primeiro programa hoje, mesmo sem saber sequer uma linha de código. e mesmo que vc já saiba programar, você vai conseguir fazer um reforço na sua lógica. sabe quando acontece aqueles errinhos e você fica engasgado em algum ponto? Essa aula vai ser muito importante para você também.
+Como criar o seu programa de uma forma mental, utilizando o computador mais potente do mundo, o nosso cérebro. se você ainda não sabe programar, vai criar o seu primeiro programa hoje, mesmo sem saber sequer uma linha de código. e mesmo que vc já saiba programar, você vai conseguir fazer um reforço na sua lógica. sabe quando acontece aqueles errinhos e você fica engasgado em algum ponto? Essa aula vai ser muito importante para você também.
 
 
 ## Passos para subir o pacote
@@ -66,11 +66,6 @@ Como criar o seu programa de uma forma mental, utilizando o computador mais pote
 5. Criar conta no Pypi
 6. Publicar no Pypi
 7. Instalar pacote usando Pypi
-
-## Criando contas no Pypi
-
-https://pypi.org/account/register/
-https://test.pypi.org/account/register/
 
 ## Comando para publicar no Test Pypi
 
@@ -132,6 +127,8 @@ file1_name.my_function()
 * [Testes automatizados](https://docs.pytest.org/en/latest/goodpractices.html)
 * [Uso do Tox](https://tox.readthedocs.io/en/latest/)
 * [package-template](https://github.com/tiemi/package-template)
+* [Pypi](https://pypi.org/account/register/)
+* [Test Pypi](https://test.pypi.org/account/register/)
 
 ![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
 
