@@ -126,19 +126,12 @@ from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-
-
-
 ## Links Importantes
 
 * [Documentação do setuptools](https://setuptools.readthedocs.io/en/latest/setuptools.html)
 * [Testes automatizados](https://docs.pytest.org/en/latest/goodpractices.html)
 * [Uso do Tox](https://tox.readthedocs.io/en/latest/)
 * [package-template](https://github.com/tiemi/package-template)
-
-
-
-
 
 ![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
 
@@ -149,4 +142,3 @@ Projeto desenvolvido durante o [**Bootcamp Suzano - Python Developer**](https://
 ##
 
 - [By Páucinha](https://github.com/Paucinha)
-
